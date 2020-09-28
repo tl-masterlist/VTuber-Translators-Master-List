@@ -9,7 +9,7 @@ Some translators seek to skate by with low effort and clickbaiting at the expens
 While the channels heavily lean towards Hololive content, we are not limiting this list to just Hololive.
 There are two categories: “Great Translators” and “Decent Translators.” 
 
-- **Great Translators:** Worth subscribing and following. Their videos are consistently both accurate and entertaining. Respectful of VTubers and shows good faith effort.
+- **Great Translators:** Worth subscribing and following. Their videos are consistently both accurate and entertaining. Respectful of VTubers and shows good faith effort. They seek out feedback from peers to ensure quality.
 
 - **Decent Translators:** Worth watching their videos, however, YMMV. Possibly might be a group of multiple translators with varying quality. Despite imperfection, you would still recommend them. Decent usually means that with some work or more experience, they could easily become a great translator. We’ll try to provide an **apt description of why this channel is not a “Great” one.**
 
