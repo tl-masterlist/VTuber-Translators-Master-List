@@ -1,3 +1,3 @@
 This is the list
 
-*bold*
+**bold**
