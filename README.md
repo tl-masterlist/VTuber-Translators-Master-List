@@ -1,7 +1,7 @@
 # Preface
 This is a list of **great and decent VTuber translation channels.** It is a growing and ever-changing list of JP->ENG VTuber translators that we collectively recommend to others. There are some small/unknown but excellent translators out there as well, and we want this to be a way to highlight them! Hopefully, with the power of DEMOCRACY™, we can make this work.
 
-**We define “great translations” as translations that maintain consistently good translation quality (accuracy in meaning), often with proper editing and overall clip selection "quality." Their work shows effort and a level of standard and professionalism that respects the VTubers, who are the talents we want to feature. **
+**We define “great translations” as translations that maintain consistently good translation quality (accuracy in meaning), often with proper editing and overall clip selection "quality." Their work shows effort and a level of standard and professionalism that respects the VTubers, who are the talents we want to feature.**
 
 Some translators seek to skate by with low effort and clickbaiting at the expense of the VTubers, in order to gain internet fame, AKA “e-peen.” **We understand that unlike anime and manga translations, these are real people that we are translating for.** The english fan community has been growing significantly, and many of them rely completely on translations to understand VTubers. We do not want misunderstandings and rumors to spread.
 
