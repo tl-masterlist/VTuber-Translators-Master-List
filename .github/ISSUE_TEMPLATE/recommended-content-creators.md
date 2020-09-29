@@ -8,24 +8,28 @@ assignees: ''
 
 ---
 
-- Link to channel:
+- **Link to channel:**
   [Channel name](url)
   
-- Link to content examples:
+- **Link to content examples:**
   [Example 1](url)
   [Example 2](url)
   [Example 3](url)
 
-- Why should I subscribe to them?
+- **Why should I subscribe to them?**
 
-- Does the channel focus on a particular VTuber(s)/groups? [e.g. Lyger simps for Matsuri]
+- **Does the channel focus on a particular VTuber(s)/groups?** (e.g. Lyger simps for Matsuri)
 
-- How do they show a high level of standard?
-  (e.g. quality control, native speakers, etc.)
+- **How do they show a high level of standard?** (e.g. quality control, native speakers, etc.)
 
--  What makes their content noteworthy?
+-  **What makes their content noteworthy?**
 
-- Additional information:
+- **Additional information:**
+
+----
+
+Use "thumbs up" (👍) to vote this channel as "Good content creator"
+Use "thumbs down" (👎) to vote this channel as "Bad content creator"
 
 ----
 
