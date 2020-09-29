@@ -20,6 +20,8 @@ assignees: ''
 
 - **Does the channel focus on a particular VTuber(s)/groups?** (e.g. Lyger simps for Matsuri)
 
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?** (e.g. typos, translation errors, bad editing, etc.)
+
 - **How do they show a high level of standard?** (e.g. quality control, native speakers, etc.)
 
 -  **What makes their content noteworthy?**
