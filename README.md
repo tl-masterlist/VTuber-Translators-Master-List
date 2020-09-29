@@ -3,7 +3,7 @@
 While we recommend everyone read this entire document, maybe you're too lazy...
 
 ## If you just want to see what's recommended, here is the [Master List](https://github.com/tl-masterlist/VTuber-Translators-Master-List/blob/master/Master%20List.md).
-### If you want to recommend a channel, click [here](#recommending-channels). 
+### If you want to contribute to the list, click [here](#contributing). 
 ### If you're knowledgable in JP/CN/ID/KR/etc. and want to help by checking accuracy of translations, click [here](#translation-checks). 
 
 
