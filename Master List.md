@@ -3,7 +3,7 @@ This is the list
 ## Great Translators
 [Description]
 
-### [Translator w/ link](www.google.com)
+### [Translator w/ link](https://www.youtube.com)
 
 > Short Description
 
