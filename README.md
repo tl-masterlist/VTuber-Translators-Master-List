@@ -17,7 +17,7 @@ We will **not** be featuring a list of “bad” translators here.
 
 The names of the groups/translator will be linked to their youtube channel.
 
-We will also feature Recommended Content Creators: significant VTuber-related content creators that are worth a recommendation for their MEMES™, editing skills, and or any other significance (e.g. think Chronakai for meme editing skills and Omiya for remixes).
+We will also feature **Recommended Content Creators**: significant VTuber-related content creators that are worth a recommendation for their MEMES™, editing skills, and or any other significance (e.g. think Chronakai for meme editing skills and Omiya for remixes).
 The Changelog will be updated with any changes, including updates to the google forms.
 
 # Instructions
