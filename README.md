@@ -45,4 +45,4 @@ Vote rigging will be monitored.
 
 - Especially for “Recommended Content Creators”: What makes their content noteworthy?
 
-**Nominations of Channels:** Add nominations of other VTuber translation channels in the “Nominations” section. **Please provide at least some explanation/argument. **They will be added to the Pending list if reasonable.
+**Nominations of Channels:** Add nominations of other VTuber translation channels in the “Nominations” section. **Please provide at least some explanation/argument.** They will be added to the Pending list if reasonable.
