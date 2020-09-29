@@ -29,6 +29,14 @@ assignees: ''
 - Additional information:
 
 ----
-You may delete this warning section from the submission.
+
+Use "thumbs up" (👍) to vote this channel as "Great translator"
+Use "thumbs down" (👎) to vote this channel as "Bad translator"
+Use "confused" (😕) to vote this channel as "Decent translator"
+Use "eyes" (👀) to vote this channel as "Recommended Content Creator"
+
+----
+
+(You may delete this warning section from the submission)
 Please check whether this channel has been submitted before posting!
 Please follow the template above and answer the questions as best as possible. Submissions that do not follow the following template **may be removed without any warning!**.

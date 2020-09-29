@@ -26,7 +26,9 @@ assignees: ''
 -  What makes their content noteworthy?
 
 - Additional information:
+
 ----
-You may delete this warning section from the submission.
+
+(You may delete this warning section from the submission)
 Please check whether this channel has been submitted before posting!
 Please follow the template above and answer the questions as best as possible. Submissions that do not follow the following template **may be removed without any warning!**.
