@@ -36,8 +36,8 @@ If you see a channel that is not on the list, **check out the [Issues](https://g
 
 **You may discuss each channel only in their appropriate issue page.**
 
-## Translation checks
-A translation check is essentially a peer review by other translators/people who are verified to be competent in the language being translated. These people are usually experienced fansubbers/translators that may already be on the list. **We are committed to remain neutral and objective in our reviews (nobody wants drama!). There is no exclusivity in this list.** Everyone already or not yet on the list are subject to constant review. This way we can maintain accountability of the quality of translations each channel produces. 
+## Translation quality checks
+A translation quality check is essentially a peer review by other translators/people who are verified to be competent in the language being translated. These people are usually experienced fansubbers/translators that may already be on the list. **We are committed to remain neutral and objective in our reviews (nobody wants drama!). There is no exclusivity in this list.** Everyone already or not yet on the list are subject to constant review. This way we can maintain accountability of the quality of translations each channel produces. 
 
 #### If you are willing to help with checking translations, [apply here](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/8)!
 
