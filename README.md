@@ -2,7 +2,7 @@
 
 While we recommend everyone read this entire document, maybe you're too lazy...
 
-## If you just want to see what's recommended, here is the [Master list](https://github.com/tl-masterlist/VTuber-Translators-Master-List/blob/master/Master%20List.md).
+## If you just want to see what's recommended, here is the [Master List](https://github.com/tl-masterlist/VTuber-Translators-Master-List/blob/master/Master%20List.md).
 ### If you want to recommend a channel, click [here](#recommending-channels). 
 ### If you're knowledgable in JP/CN/ID/KR/etc. and want to help by checking accuracy of translations, click [here](#translation-checks). 
 
@@ -39,9 +39,9 @@ If you see a channel that is not on the list, **check out the [Issues](https://g
 ## Translation checks
 A translation check is essentially a peer review by other translators/people who are verified to be competent in the language being translated. These people are usually experienced fansubbers/translators that may already be on the list. **We are committed to remain neutral and objective in our reviews (nobody wants drama!). There is no exclusivity in this list.** Everyone already or not yet on the list are subject to constant review. This way we can maintain accountability of the quality of translations each channel produces. 
 
-**If you are willing to help with checking translations, [apply here](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/8)!**
+#### If you are willing to help with checking translations, [apply here](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/8)!
 
-**[Click here to see progress of translations checking](https://github.com/tl-masterlist/VTuber-Translators-Master-List/projects/2)**
+#### [Click here to see progress of translations checking](https://github.com/tl-masterlist/VTuber-Translators-Master-List/projects/2)
 
 ## Adding checked translators
 Once checked, they still need to be added to the list. You may fork the list, make the addition, and submit a pull request. Collaborators will check the addition and may modify the submission to adhere to appropriate formats. **Do not submit a pull request for adding unchecked translators!** Only add translators labeled ["TL Checked"](https://github.com/tl-masterlist/VTuber-Translators-Master-List/labels/TL%20Checked)
