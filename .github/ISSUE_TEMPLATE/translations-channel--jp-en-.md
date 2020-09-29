@@ -25,6 +25,8 @@ assignees: ''
 - How do they show a high level of standard?
   (e.g. quality control, native speakers, etc.)
 
+- Additional information:
+
 ----
 You may delete this warning section from the submission.
 Please check whether this channel has been submitted before posting!
