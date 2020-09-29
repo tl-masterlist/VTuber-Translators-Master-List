@@ -32,7 +32,7 @@ We will also feature **Recommended Content Creators**: significant VTuber-relate
 Here are several ways you can contribute to the list:
 
 ## Recommending Channels
-If you see a channel that is not on the list, **check out the [Issues](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues) page** and search whether the channel has been suggested by someone else. Please avoid duplicates! If you can't find them, you may **create [a new issue](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/new/choose)** using one of the templates available deemed appropriate. Please fill in the template as best as possible ([here is a good example to follow](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/5)). Add as much information as you can to convince others why they deserve to be on the list!
+If you see a channel that is not on the list, **check out the [Issues](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues) page** and search whether the channel has been suggested by someone else. Please avoid duplicates! If you can't find them, you may **create [a new issue](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/new/choose)** using one of the templates available deemed appropriate. Please fill in the template as best as possible ([here is a good example to follow](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/5)). Add as much information as you can to convince others why they deserve to be on the list! In providing examples, try to highlight the channel. 3 examples is a minimum, provide more when you feel appropriate.
 
 **You may discuss each channel only in their appropriate issue page.**
 
