@@ -1,9 +1,8 @@
 ---
-name: Translator Group [JP->EN]
-about: Use this template to submit new translator groups that translate from Japanese
-  to English
-title: "[JP->EN] *Insert channel name here*"
-labels: jp-en
+name: Translations channel (CN-EN)
+about: Submit new channels that translate between Chinese and English
+title: "[CN-EN] *Insert channel name here*"
+labels: Chinese, English, Need TL Check
 assignees: ''
 
 ---
@@ -13,12 +12,12 @@ assignees: ''
   
 - Link to content examples:
   [Example 1](url)
-  [Example 2])(url)
-  [Example 3])(url)
+  [Example 2](url)
+  [Example 3](url)
 
 - Why should I subscribe to them?
 
-- Does the channel focus on a particular VTuber(s)? [e.g. Lyger simps for Matsuri]
+- Does the channel focus on a particular VTuber(s)/groups? [e.g. Lyger simps for Matsuri]
 
 - Especially for the “Decent” category: if any, what errors or issues do you see sometimes? What justification do you have for still recommending them?
   (e.g. typos, translation errors, bad editing, etc.)
@@ -26,8 +25,7 @@ assignees: ''
 - How do they show a high level of standard?
   (e.g. quality control, native speakers, etc.)
 
-- Especially for “Recommended Content Creators”: What makes their content noteworthy?
-
 ----
 You may delete this warning section from the submission.
+Please check whether this channel has been submitted before posting!
 Please follow the template above and answer the questions as best as possible. Submissions that do not follow the following template **may be removed without any warning!**.
