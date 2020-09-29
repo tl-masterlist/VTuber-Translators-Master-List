@@ -1,14 +1,14 @@
-## TL;DR
+# TL;DR
 
 While we recommend everyone read this entire document, maybe you're too lazy...
 
-- **If you're here to recommend a channel, click** [here](https://link-to-section-about-recommending-channels). 
-- **If you're knowledgable in JP/IN/KR/etc and want to help by confirming accuracy of translations, click** [here](https://link-to-section-about-tl-check). 
-- **If you just want to see what's recommended, check the** [Master list](https://github.com/jogerj/VTuber-Translators-Master-List/blob/master/Master%20List.md).
+## If you just want to see what's recommended, here is the [Master list](https://github.com/tl-masterlist/VTuber-Translators-Master-List/blob/master/Master%20List.md).
+### If you want to recommend a channel, click [here](#recommending-channels). 
+### If you're knowledgable in JP/CN/ID/KR/etc. and want to help by checking accuracy of translations, click [here](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/8). 
+
 
 # Preface
-
-This is a list of **great and decent VTuber translation channels.** It is a growing and ever-changing list of JP->ENG VTuber translators that we collectively recommend to others. There are some small/unknown but excellent translators out there as well, and we want this to be a way to highlight them! Hopefully, with the power of DEMOCRACY™, we can make this work.
+This is a list of **great and decent VTuber translation channels.** It is a growing and ever-changing list of VTuber translators that we collectively recommend to others. There are some small/unknown but excellent translators out there as well, and we want this to be a way to highlight them! Hopefully, with the power of DEMOCRACY™, we can make this work.
 
 **We define “great translations” as translations that maintain consistently good translation quality (accuracy in meaning), often with proper editing and overall clip selection "quality." Their work shows effort and a level of standard and professionalism that respects the VTubers, who are the talents we want to feature.**
 
@@ -22,42 +22,27 @@ There are two categories: “Great Translators” and “Decent Translators.”
 
 - **Decent Translators:** Worth watching their videos, however, YMMV. Possibly might be a group of multiple translators with varying quality. Despite imperfection, you would still recommend them. Decent usually means that with some work or more experience, they could easily become a great translator. We’ll try to provide an **apt description of why this channel is not a “Great” one.**
 
-We will **not** be featuring a list of “bad” translators here. 
+We will **not** be featuring a list of “bad” translators here. (See why [here](https://link-here))
 
 The names of the groups/translator will be linked to their youtube channel.
 
 We will also feature **Recommended Content Creators**: significant VTuber-related content creators that are worth a recommendation for their MEMES™, editing skills, and or any other significance (e.g. think Chronakai for meme editing skills and Omiya for remixes).
-The Changelog will be updated with any changes, including updates to the google forms.
 
-# Instructions
-**General edit suggestions:** Make suggestions by using the Comment feature in Gdocs. Accepting suggestions to edit or reword any part of this document, including the introduction and instructions! **Highly suggested to affirm or disagree with any other comments by individuals.**
-
-**Add a channel as a recommendation:** Channel recommendations will be done with voting on Google forms. 
-
-    Google Forms: Located here: https://forms.gle/FWq6BQwxdtiUGDyn7 
-    
-It will be used to gather votes, either as “great” “decent” “bad” or “Recommended content”. When a certain account is voted as “great”, “decent”, or “Recommended content” by **5 votes**, it will officially be moved to that section. If there is a conflicting vote of “**bad**”, two votes will be needed to “overrule” that. 
-
-> E.g. if YELEL receives a “bad” vote, then there needs to be 6 “great” votes instead of 5 in order to add YELEL to the “great” category.
-
-In v0.1 of this document, the “Great” and “Decent” has already been seeded with recommendations. If you believe that a particular channel is “Great” rather than “Decent”, vote! If it reaches **5 votes** it will change. Unlike the US Elections, your **vote matters!**
-Vote rigging will be monitored.
-
-**Short channel descriptions:** We want this list to be helpful. We’re hoping for short (usually up to 3 sentences) for each channel. **The descriptions are not votes, but are helpful and may convince others to vote for or against them.** Helpful descriptions include:
-- Why should I subscribe to them?
-
-- Does the channel focus on a particular VTuber(s)? [e.g. Lyger simps for Matsuri]
-
-- Especially for the “Decent” category: if any, what errors or issues do you see sometimes? What justification do you have for still recommending them?
-
-- How do they show a high level of standard?
-
-- Especially for “Recommended Content Creators”: What makes their content noteworthy?
+# Contributing
+Here are several ways you can contribute to the list:
 
 ## Recommending Channels
+If you see a channel that is not on the list, check out the [Issues](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues) page and search whether the channel has been suggested by someone else. Please avoid duplicates! If you can't find them, you may create [a new issue](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/new/choose) using one of the templates available deemed appropriate. Please fill in the template as best as possible ([here is a good example to follow](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/5)). Add as much information as you can to convince others why they deserve to be on the list!
 
-Add nominations of other VTuber translation channels in the “Nominations” section. **Please provide at least some explanation/argument.** They will be added to the Pending list if reasonable. [todo]
+You may discuss each channel only in their appropriate issue page.
 
 ## Translation checks
+A translation check is essentially a peer review by other translators/people who are verified to be competent in the language being translated. These people are usually experienced fansubbers/translators that may already be on the list. **We are committed to remain neutral and objective in our reviews (nobody wants drama!). There is no exclusivity in this list.** Everyone already or not yet on the list are subject to constant review. This way we can maintain accountability of the quality of translations each channel produces.
 
-[todo]
+[Click here to see progress of translations checking](https://github.com/tl-masterlist/VTuber-Translators-Master-List/projects/2)
+
+## Adding checked translators
+Once checked, they still need to be added to the list. You may fork the list, make the addition, and submit a pull request. Collaborators will check the addition and may modify the submission to adhere to appropriate formats. **Do not submit a pull request for adding unchecked translators!** Only add translators labeled ["TL Checked"](https://github.com/tl-masterlist/VTuber-Translators-Master-List/labels/TL%20Checked)
+
+# Credits
+TBA
