@@ -1,6 +1,6 @@
 ## TL;DR
 
-While we recommend everyone reads this, maybe you're too lazy...
+While we recommend everyone read this entire document, maybe you're too lazy...
 
 - **If you're here to recommend a channel, click** [here](https://link-to-section-about-recommending-channels). 
 - **If you're knowledgable in JP/IN/KR/etc and want to help by confirming accuracy of translations, click** [here](https://link-to-section-about-tl-check). 
