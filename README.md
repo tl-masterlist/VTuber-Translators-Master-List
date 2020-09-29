@@ -1,6 +1,7 @@
 ## TL;DR
 
 While we recommend everyone reads this, maybe you're too lazy.
+
 **If you're here to recommnd a channel, click** [here](https://link-to-section-about-recommending-channels). 
 
 # Preface
