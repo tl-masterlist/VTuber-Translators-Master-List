@@ -1,4 +1,10 @@
+## TL;DR
+
+While we recommend everyone reads this, maybe you're too lazy.
+**If you're here to recommnd a channel, click** [here](https://link-to-section-about-recommending-channels). 
+
 # Preface
+
 This is a list of **great and decent VTuber translation channels.** It is a growing and ever-changing list of JP->ENG VTuber translators that we collectively recommend to others. There are some small/unknown but excellent translators out there as well, and we want this to be a way to highlight them! Hopefully, with the power of DEMOCRACY™, we can make this work.
 
 **We define “great translations” as translations that maintain consistently good translation quality (accuracy in meaning), often with proper editing and overall clip selection "quality." Their work shows effort and a level of standard and professionalism that respects the VTubers, who are the talents we want to feature.**
