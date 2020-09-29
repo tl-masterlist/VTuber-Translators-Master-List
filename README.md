@@ -43,8 +43,8 @@ A translation check is essentially a peer review by other translators/people who
 
 #### [Click here to see progress of translations checking](https://github.com/tl-masterlist/VTuber-Translators-Master-List/projects/2)
 
-## Adding checked translators
-Once checked, they still need to be added to the list. You may fork the list, make the addition, and submit a pull request. Collaborators will check the addition and may modify the submission to adhere to appropriate formats. **Do not submit a pull request for adding unchecked translators!** Only add translators labeled ["TL Checked"](https://github.com/tl-masterlist/VTuber-Translators-Master-List/labels/TL%20Checked)
+## Adding checked translators to the list
+Once checked for TL quality and passing, they still need to be added to the list. You may fork the list, make the addition, and submit a pull request. Collaborators will check the addition and may modify the submission to adhere to appropriate formats. **Do not submit a pull request for adding unchecked translators!** Only add translators labeled ["TL Checked"](https://github.com/tl-masterlist/VTuber-Translators-Master-List/labels/TL%20Checked)
 
 # Credits
 TBA
