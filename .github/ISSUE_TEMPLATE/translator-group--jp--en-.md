@@ -29,5 +29,4 @@ assignees: ''
 
 ----
 You may delete this warning section from the submission.
-
 Please follow the template above and answer the questions as best as possible. Submissions that do not follow the following template **may be removed without any warning!**.
