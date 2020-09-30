@@ -30,8 +30,6 @@ assignees: ''
 
 Use "thumbs up" (👍) to vote this channel as "Great translator"
 Use "thumbs down" (👎) to vote this channel as "Bad translator"
-Use "confused" (😕) to vote this channel as "Decent translator"
-Use "eyes" (👀) to vote this channel as "Recommended Content Creator"
 
 ----
 
