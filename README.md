@@ -50,4 +50,5 @@ Once checked for TL quality and passing, they still need to be added to the list
 See [FAQs page](https://github.com/tl-masterlist/VTuber-Translators-Master-List/wiki/Frequently-Asked-Questions).
 
 # Credits
+[Original Google Docs](https://docs.google.com/document/d/1GVKtNSz4zqRNPfqv-ZLmDj_8sm71ndaL2B1q-cg0CG8/edit#)
 TBA
