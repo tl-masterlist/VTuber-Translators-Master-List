@@ -3,8 +3,6 @@ Table of Contents:
   * [Great Translators](#great-translators)
   * [Decent Translators](#decent-translators)
   * [Recommended Content Creators](#recommended-content-creators)
-- [TESTING SECTION](#testing-section)
-    + [Great Translators](#great-translators-1)
 
 ## Great Translators
 <details>
@@ -75,48 +73,3 @@ Goes back and fixes translation errors
 ## Decent Translators
 
 ## Recommended Content Creators
-
-
-
-
-
-
-----
-
-# TESTING SECTION
-
-### Great Translators
-
-<details>
-  <summary>Some translator</summary>
-  Test
-</details>
-
-<details>
-  <summary> Testing Thumbnails:</summary>
-
-* This format scales horizontally. It doesn't make the list long, but it doesn't look so good with more than 3 thumbnails. Also thumbnail gets squished if title is short:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_L2DsyL06rI" target="_blank"><img src="http://img.youtube.com/vi/_L2DsyL06rI/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>short title</b></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=HgRdK_pVUTY" target="_blank"><img src="http://img.youtube.com/vi/HgRdK_pVUTY/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Natsuiro Matsuri – 500k Subs Celebration (FULLY TRANSLATED)</b></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=H36RgkED4ow" target="_blank"><img src="http://img.youtube.com/vi/H36RgkED4ow/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Natsuiro Matsuri – Heart Attack Warning</b></a> | 
----|---|---
-
-
-* This format scales vertically:
-
-||
-|---|
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_L2DsyL06rI" target="_blank"><img src="http://img.youtube.com/vi/_L2DsyL06rI/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>5 Minutes of Sleepy Matsuri</b></a> | 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=HgRdK_pVUTY" target="_blank"><img src="http://img.youtube.com/vi/HgRdK_pVUTY/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Natsuiro Matsuri – 500k Subs Celebration (FULLY TRANSLATED)</b></a> | 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=H36RgkED4ow" target="_blank"><img src="http://img.youtube.com/vi/H36RgkED4ow/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Natsuiro Matsuri – Heart Attack Warning</b></a> | 
-
-
-* This format is plain simple:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_L2DsyL06rI" target="_blank"><img src="http://img.youtube.com/vi/_L2DsyL06rI/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>5 Minutes of Sleepy Matsuri</b></a>  
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=HgRdK_pVUTY" target="_blank"><img src="http://img.youtube.com/vi/HgRdK_pVUTY/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Natsuiro Matsuri – 500k Subs Celebration (FULLY TRANSLATED)</b></a>  
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=H36RgkED4ow" target="_blank"><img src="http://img.youtube.com/vi/H36RgkED4ow/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Natsuiro Matsuri – Heart Attack Warning</b></a>  
-
-
-</details>
