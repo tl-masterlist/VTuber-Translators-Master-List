@@ -1,6 +1,6 @@
 ---
 name: Recommended Content Creators
-about: Submit new channels that make contents related to VTubers (memes, reviews,
+about: Submit new channels that make contents related to VTubers (clips, memes, reviews,
   etc.)
 title: "[RCC] *Insert channel name here*"
 labels: Content creator
