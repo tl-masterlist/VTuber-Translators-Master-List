@@ -22,7 +22,7 @@ There are two categories: “Great Translators” and “Decent Translators.”
 
 - **Decent Translators:** Worth watching their videos, however, YMMV. Possibly might be a group of multiple translators with varying quality. Despite imperfection, you would still recommend them. Decent usually means that with some work or more experience, they could easily become a great translator. We’ll try to provide an **apt description of why this channel is not a “Great” one.**
 
-We will **not** be featuring a list of “bad” translators here. (See why [here](https://link-here-to-faq))
+We will **not** be featuring a list of “bad” translators here. (See why [here](https://github.com/tl-masterlist/VTuber-Translators-Master-List/wiki/F.A.Q.#why-arent-bad-translators-listed-too))
 
 The names of the groups/translator will be linked to their youtube channel.
 
@@ -45,6 +45,9 @@ A translation quality check is essentially a peer review by other translators/pe
 
 ## Adding checked translators to the list
 Once checked for TL quality and passing, they still need to be added to the list. You may fork the list, make the addition, and submit a pull request. Collaborators will check the addition and may modify the submission to adhere to appropriate formats. **Do not submit a pull request for adding unchecked translators!** Only add translators labeled ["To be added"](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues?q=is%3Aissue+is%3Aopen+label%3A%22To+be+added%22)
+
+# Frequently Asked Questions (FAQs)
+See [FAQs page](https://github.com/tl-masterlist/VTuber-Translators-Master-List/wiki/F.A.Q.).
 
 # Credits
 TBA
