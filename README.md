@@ -22,7 +22,7 @@ There are two categories: “Great Translators” and “Decent Translators.”
 
 - **Decent Translators:** Worth watching their videos, however, YMMV. Possibly might be a group of multiple translators with varying quality. Despite imperfection, you would still recommend them. Decent usually means that with some work or more experience, they could easily become a great translator. We’ll try to provide an **apt description of why this channel is not a “Great” one.**
 
-We will **not** be featuring a list of “bad” translators here. ([See why here](https://github.com/tl-masterlist/VTuber-Translators-Master-List/wiki/F.A.Q.#why-arent-bad-translators-listed-too))
+We will **not** be featuring a list of “bad” translators. ([See why here](https://github.com/tl-masterlist/VTuber-Translators-Master-List/wiki/F.A.Q.#why-arent-bad-translators-listed-too))
 
 The names of the groups/translator will be linked to their youtube channel.
 
