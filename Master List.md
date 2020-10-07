@@ -1,23 +1,10 @@
 This is the list
 
 ## Great Translators
-[Description]
-
-### [Translator w/ link](https://www.youtube.com)
-
-> Short Description
-
-## Decent Translators
-[Description]
-
-## Recommended Content Creators
-[Description]
-
-#### TESTING SECTION
-
-### Great Translators
 <details>
-  <summary>Lyger</summary>
+  <summary>[JP-EN] lyger VTuber Translations</summary>
+ 
+ ![](https://yt3.ggpht.com/a/AATXAJzovb49cVkTMZIS4sdeHO1x1nK3cHqtt4jfwJmw=s100-c-k-c0xffffffff-no-rj-mo)
   
 - **Link to channel:**
 [lyger VTuber Translations](https://www.youtube.com/channel/UCU0Z5716wQX8IIZVna7G0zg)
@@ -30,16 +17,63 @@ This is the list
 - **Why should I subscribe to them?**  
 Moderator of Matsuri Ch., extremely proficient and experienced fansubber.
 
-- **Does the channel focus on a particular VTuber(s)/groups? [e.g. Lyger simps for Matsuri]**  
+- **Does the channel focus on a particular VTuber(s)/groups?**  
 Mostly Matsuri content but sometimes also other Hololive members.
 
-- **Especially for the “Decent” category: if any, what errors or issues do you see sometimes? What justification do you have for still recommending them? (e.g. typos, translation errors, bad editing, etc.)**  
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
 I haven't seen mistakes so far
 
-- **How do they show a high level of standard? (e.g. quality control, native speakers, etc.)**  
+- **How do they show a high level of standard?**  
 Neutral subs, very accurate translations
 
 - **Additional information:**  
 Also contributes subtitles directly to VTuber's videos.
 [Twitter](https://twitter.com/LygerT)
+</details>
+<details>
+  <summary>[JP-EN] Neko Mikuri 寝込みくり</summary>
+  
+  ![](https://yt3.ggpht.com/a/AATXAJwDk-dQsNpYiKpTlFCnXywGIlyh-UFMUOCiZhRq=s100-c-k-c0xffffffff-no-rj-mo)
+- **Link to channel:**
+  [Neko Mikuri 寝込みくり](https://www.youtube.com/channel/UCZohBcP4HL5UxV4xwY_81YA)
+  
+- **Link to content examples:**  
+[Pekora, Aqua, Marine, Rion, Shiina, Patra, Ui & Tamaki play Project Winter](https://www.youtube.com/watch?v=EO-QUXU9dHI)   
+[Usada Pekora plays Emily Wants to Play! Best moments](https://www.youtube.com/watch?v=eNh79KQU4zI)  
+[Tsukino Mito watches infamous horror movie "The Human Centipede" HIGHLIGHTS!](https://www.youtube.com/watch?v=DfvMPRDrqbE)
+
+- **Why should I subscribe to them?**  
+Self explanatory. But honestly, Mikuri makes mistakes all the time, minor ones that don't ruin the meaning or construe it. I point them out to him all the time and he takes it at face value. I(Yosh) respect that. And his editing efforts are arguably the best in the scene.
+
+- **Does the channel focus on a particular VTuber(s)/groups?**  
+Lot's of Pekora content, does a fair bit of non-peko as well
+
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
+As mentioned before, mistakes made but minor ones. They're also open to feedback.
+
+- **How do they show a high level of standard?**  
+Goes back and fixes translation errors
+
+- **Additional information:**  
+[Discord](https://discord.gg/zRPpzw2)
+</details>
+
+## Decent Translators
+
+## Recommended Content Creators
+
+
+
+
+
+
+----
+
+#### TESTING SECTION
+
+### Great Translators
+
+<details>
+  <summary>Some translator</summary>
+  Test
 </details>
