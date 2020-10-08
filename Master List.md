@@ -36,6 +36,8 @@ Neutral subs, very accurate translations
 - **Additional information:**  
 Also contributes subtitles directly to VTuber's videos.
 [Twitter](https://twitter.com/LygerT)
+
+- **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/5)**  
 </details>
 <details>
   <summary>[JP-EN] Neko Mikuri 寝込みくり</summary>
@@ -67,8 +69,11 @@ As mentioned before, mistakes made but minor ones. They're also open to feedback
 Goes back and fixes translation errors
 
 - **Additional information:**  
-[Discord](https://discord.gg/zRPpzw2)
+[Discord](https://discord.gg/zRPpzw2)  
+
+- **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/6)**  
 </details>
+
 
 ## Decent Translators
 
