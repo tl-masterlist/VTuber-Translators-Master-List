@@ -39,6 +39,37 @@ Dedicated Proofreaders, QCs and TLQCs
 </details>
 
 <details>
+ <summary>[JP-EN] Hololive Resistance</summary>  
+ 
+ ![Channel picture](https://yt3.ggpht.com/a/AATXAJw1fFKg_5VMPgLbmoEnyx1t29YgMpcfP40-KZwRrw=s88-c-k-c0x00ffffff-no-rj) 
+ 
+- **Link to channel:**  
+  [Hololive Resistance](https://www.youtube.com/channel/UCweNMiLJU3IsVUhZM3Uh0vg/videos)
+  
+- **Link to content examples:**  
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=fawuyeJ7gpc" target="_blank"><img src="http://img.youtube.com/vi/fawuyeJ7gpc/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Channel Video</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=OX5J7WeZQKw" target="_blank"><img src="http://img.youtube.com/vi/OX5J7WeZQKw/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Subaru's determination against Sans</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qAeGZIPYXnw" target="_blank"><img src="http://img.youtube.com/vi/qAeGZIPYXnw/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Marine babysits Luna</b></a>  
+
+
+- **Why should I subscribe to them?**  
+High quality, well translated, paranoid quality assurance
+- **Does the channel focus on a particular VTuber(s)/groups?**  
+Hololive, as the name suggests
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
+N/A
+- **How do they show a high level of standard?**   
+[リク] nandakedo: Hololive Resistance’s quality standard is scary but the team environment is very good and everyone gets along as they strive for quality only, literally re rendered an entire video cause one of the lines didn't feel right 
+
+- **Additional information:**  
+[Discord](https://discord.gg/XtCZG8)  
+[Twitter](https://twitter.com/HLRDiscord)
+
+* **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/17)**  
+
+</details>
+
+<details>
   <summary>[JP-EN] lyger VTuber Translations</summary>
  
  ![Channel picture](https://yt3.ggpht.com/a/AATXAJzovb49cVkTMZIS4sdeHO1x1nK3cHqtt4jfwJmw=s100-c-k-c0xffffffff-no-rj-mo)
