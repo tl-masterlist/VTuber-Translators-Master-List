@@ -23,8 +23,10 @@ Table of Contents:
 foooooood keeps everyone in the basement so the TL quality is good.
 
 - **Does the channel focus on a particular VTuber(s)/groups?**  
+Hololive and Nijisanji
 
 - **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
+N/A
 
 - **How do they show a high level of standard?**  
 Dedicated Proofreaders, QCs and TLQCs
