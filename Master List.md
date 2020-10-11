@@ -206,11 +206,46 @@ Goes back and fixes translation errors
 </details>
 
 <details>
+ <summary>[JP-EN] Shadowneck Garoupa</summary>  
+ 
+ ![Channel picture](https://yt3.ggpht.com/a/AATXAJwM0zklyq78WpRuo0dAk8uCoM0nYvEDjZxodDE1=s88-c-k-c0x00ffffff-no-rj)
+ 
+- **Link to channel:**  
+  [Shadowneck Garoupa](https://www.youtube.com/c/ShadowneckGaroupa/)
+  
+- **Link to content examples:**  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0HIBDGni1-o" target="_blank"><img src="http://img.youtube.com/vi/0HIBDGni1-o/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>What is Hololive? (in 5 minutes)</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MZQBn89HmwY" target="_blank"><img src="http://img.youtube.com/vi/MZQBn89HmwY/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Pekora Suffering Compilation</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6KSIUtiMITI" target="_blank"><img src="http://img.youtube.com/vi/6KSIUtiMITI/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>A better love story than twilight</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HnPjM7tW8sY" target="_blank"><img src="http://img.youtube.com/vi/HnPjM7tW8sY/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Pekora tricked by chat</b></a>  
+
+- **Why should I subscribe to them?**  
+He only has a few videos but they are translated excellent, similar in quality level to lyger, possibly more. Left an impression on me(yosh) due to localizing some tricky phrases masterfully.
+- **Does the channel focus on a particular VTuber(s)/groups?**   
+Hololive
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
+N/A
+- **How do they show a high level of standard?**  
+[Stated the following philosophy](https://www.youtube.com/c/ShadowneckGaroupa/about):
+>  - No monetization (if you see ads, it's not me, just use ad blocker)
+>  - Always include/cite all sources and timestamps of original clips, art, music, etc. in the description (no artist left uncredited)
+>  - Only use free open source software for editing
+
+
+- **Additional information:**
+
+
+* **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/20)** 
+
+
+</details>
+
+<details>
  <summary>[JP-EN] Shirobaka</summary>  
  
  ![Channel picture](https://yt3.ggpht.com/a/AATXAJxjDstxDySjMZSd1dGALynSjPMLppJPm6XaiBM9=s100-c-k-c0xffffffff-no-rj-mo)
  
-- **Link to channel:**
+- **Link to channel:**  
   [Shirobaka](https://www.youtube.com/channel/UCgZ1rkDiHAMabUFxlwuY3Ww)
   
 - **Link to content examples:**  
