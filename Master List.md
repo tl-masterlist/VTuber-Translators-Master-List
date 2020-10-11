@@ -3,8 +3,8 @@ Table of Contents:
   * [Decent Translators](#decent-translators)
   * [Recommended Content Creators](#recommended-content-creators)
 
-## Great Translators
-
+# Great Translators
+## JP-EN
 <details>
  <summary>[JP-EN] Aonahara Translations</summary>
  
@@ -206,6 +206,6 @@ Goes back and fixes translation errors
 </details>
 
 
-## Decent Translators
+# Decent Translators
 
-## Recommended Content Creators
+# Recommended Content Creators
