@@ -1,10 +1,41 @@
-
 Table of Contents:
   * [Great Translators](#great-translators)
   * [Decent Translators](#decent-translators)
   * [Recommended Content Creators](#recommended-content-creators)
 
 ## Great Translators
+
+<details>
+ <summary>[JP-EN] Aonahara Translations</summary>
+ 
+ ![Channel picture](https://yt3.ggpht.com/a/AATXAJy2sZMYEaXTS66dNL2UR1-de3rWzUL3EBRaaZdz=s88-c-k-c0x00ffffff-no-rj)
+ 
+- **Link to channel:**  
+  [Aonahara Translations](https://www.youtube.com/channel/UCzD0rLDQQ69DdJfbqDXlB9Q/videos)
+  
+- **Link to content examples:**  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=z2LqC2y5JCY" target="_blank"><img src="http://img.youtube.com/vi/z2LqC2y5JCY/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Monika’s Trick to Kanata</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GIYsIK5nMMA" target="_blank"><img src="http://img.youtube.com/vi/GIYsIK5nMMA/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Shion cheats on both her fiancée and her new wife with Rushia</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CiEber9E6V4" target="_blank"><img src="http://img.youtube.com/vi/CiEber9E6V4/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Matsuri, Suffering from Success</b></a>  
+
+
+- **Why should I subscribe to them?**  
+foooooood keeps everyone in the basement so the TL quality is good.
+
+- **Does the channel focus on a particular VTuber(s)/groups?**  
+
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
+
+- **How do they show a high level of standard?**  
+Dedicated Proofreaders, QCs and TLQCs
+
+- **Additional information:**  
+[Discord](https://discord.gg/aonahara)
+
+* **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/16)** 
+
+</details>
+
 <details>
   <summary>[JP-EN] lyger VTuber Translations</summary>
  
