@@ -205,6 +205,37 @@ Goes back and fixes translation errors
 - **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/6)**  
 </details>
 
+<details>
+ <summary>[JP-EN] Shirobaka</summary>  
+ 
+ ![Channel picture](https://yt3.ggpht.com/a/AATXAJxjDstxDySjMZSd1dGALynSjPMLppJPm6XaiBM9=s100-c-k-c0xffffffff-no-rj-mo)
+ 
+- **Link to channel:**
+  [Shirobaka](https://www.youtube.com/channel/UCgZ1rkDiHAMabUFxlwuY3Ww)
+  
+- **Link to content examples:**  
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=AFmafcoUPqI" target="_blank"><img src="http://img.youtube.com/vi/AFmafcoUPqI/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Artia's gamer moment</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=E-Xxo6utgNA" target="_blank"><img src="http://img.youtube.com/vi/E-Xxo6utgNA/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Shirakami Fubuki - I am a cat</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S0WPnrx0oKs" target="_blank"><img src="http://img.youtube.com/vi/S0WPnrx0oKs/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Kiryu Coco - 3500 year old dragon roasts 3 year old sheep for 3 minutes 43 seconds</b></a>  
+
+- **Why should I subscribe to them?**  
+Doesn't get enough credit for how consistent his quality is. I think it's because he doesn't do anything special in terms of editing. I appreciate them.
+
+- **Does the channel focus on a particular VTuber(s)/groups?**  
+Primarily Hololive and Mea
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?** (e.g. typos, translation errors, bad editing, etc.)
+Currently inactive
+- **How do they show a high level of standard?**  
+N/A
+
+- **Additional information:**  
+Status update from Shirobaka: <3 i’m gonna be dead for a while
+
+
+* **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/20)** 
+
+
+</details>
 
 # Decent Translators
 
