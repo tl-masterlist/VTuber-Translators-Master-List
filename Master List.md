@@ -39,6 +39,39 @@ Dedicated Proofreaders, QCs and TLQCs
 </details>
 
 <details>
+ <summary>[JP-EN] Floating Ghost</summary>
+ 
+ ![Channel picture](https://yt3.ggpht.com/a/AATXAJxld3IMVluIIqWakfo8D1kk_CgT-zLj50ZD9rah=s100-c-k-c0xffffffff-no-rj-mo) 
+ 
+- **Link to channel:**  
+  [Floating Ghost](https://www.youtube.com/c/FloatingGhost/)
+  
+- **Link to content examples:**  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kGochfhxivM" target="_blank"><img src="http://img.youtube.com/vi/kGochfhxivM/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Amane Kanata meets Tokino Sora and explodes</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FKZ-2iB9iDw" target="_blank"><img src="http://img.youtube.com/vi/FKZ-2iB9iDw/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Amane Kanata asks for Noel's "Sexy voice"</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vLsvWHXf2No" target="_blank"><img src="http://img.youtube.com/vi/vLsvWHXf2No/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Kanatan's sexy-man voice is too much for Sui-chan</b></a>  
+
+
+- **Why should I subscribe to them?**  
+Good to great content, he works hard.
+
+- **Does the channel focus on a particular VTuber(s)/groups?**   
+Kanata simp
+- **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?** (e.g. typos, translation errors, bad editing, etc.)
+N/A
+
+- **How do they show a high level of standard?**   
+N/A
+
+- **Additional information:**  
+[Twitter](https://twitter.com/FloatingghostTL)  
+[Fediverse](https://kanatan.club/hei)
+
+* **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/19)** 
+
+</details>
+
+<details>
  <summary>[JP-EN] Hololive Resistance</summary>  
  
  ![Channel picture](https://yt3.ggpht.com/a/AATXAJw1fFKg_5VMPgLbmoEnyx1t29YgMpcfP40-KZwRrw=s88-c-k-c0x00ffffff-no-rj) 
