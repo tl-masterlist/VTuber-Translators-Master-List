@@ -8,7 +8,7 @@ Table of Contents:
 <details>
   <summary>[JP-EN] lyger VTuber Translations</summary>
  
- ![](https://yt3.ggpht.com/a/AATXAJzovb49cVkTMZIS4sdeHO1x1nK3cHqtt4jfwJmw=s100-c-k-c0xffffffff-no-rj-mo)
+ ![Channel picture](https://yt3.ggpht.com/a/AATXAJzovb49cVkTMZIS4sdeHO1x1nK3cHqtt4jfwJmw=s100-c-k-c0xffffffff-no-rj-mo)
   
 - **Link to channel:**
 [lyger VTuber Translations](https://www.youtube.com/channel/UCU0Z5716wQX8IIZVna7G0zg)
@@ -39,10 +39,44 @@ Also contributes subtitles directly to VTuber's videos.
 
 - **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/5)**  
 </details>
+
+<details>
+ <summary>[JP-EN] Mesugaki</summary>  
+ 
+ ![Channel picture](https://yt3.ggpht.com/a/AATXAJzhm2cycbeFMkfxQ3lQjn6YxlEF1t4S4dzPYDu-=s100-c-k-c0xffffffff-no-rj-mo)
+ 
+- **Link to channel:**  
+  [Mesugaki](https://www.youtube.com/channel/UC_B8u8pfpQdSShJY-F22RBA/)
+  
+- **Link to content examples:**  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=T1Cgq9luSbQ" target="_blank"><img src="http://img.youtube.com/vi/T1Cgq9luSbQ/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Natsuiro Matsuri - Lewd Skirt</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kVfsGtwlXm4" target="_blank"><img src="http://img.youtube.com/vi/kVfsGtwlXm4/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Murasaki Shion's Flawless English and Some Vacation Plans</b></a>  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sHtiZaewyrg" target="_blank"><img src="http://img.youtube.com/vi/sHtiZaewyrg/0.jpg" alt="Thumbnail" width="240" height="180" border="10" /><br><b>Gibara and Inui Toko's Shopping Date</b></a>  
+
+
+- **Why should I subscribe to them?**  
+Ran by an extremely veteran scanlator of "cultured works". So good I(Yosh) offered to proofread for them, and did.
+
+- **Does the channel focus on a particular VTuber(s)/groups?**  
+Shion
+- **Especially for the “Decent” category: if any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
+ VON only uploads like once a year lmao.
+- **How do they show a high level of standard?**  
+Multiple QC'ers
+
+- **Additional information:**  
+[Website](https://mesugaki.com/)
+
+* **[Link to discussion](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/7)** 
+
+</details>
+
 <details>
   <summary>[JP-EN] Neko Mikuri 寝込みくり</summary>
   
-  ![](https://yt3.ggpht.com/a/AATXAJwDk-dQsNpYiKpTlFCnXywGIlyh-UFMUOCiZhRq=s100-c-k-c0xffffffff-no-rj-mo)
+  ![Channel picture](https://yt3.ggpht.com/a/AATXAJwDk-dQsNpYiKpTlFCnXywGIlyh-UFMUOCiZhRq=s100-c-k-c0xffffffff-no-rj-mo)
+  
 - **Link to channel:**
   [Neko Mikuri 寝込みくり](https://www.youtube.com/channel/UCZohBcP4HL5UxV4xwY_81YA)
   
