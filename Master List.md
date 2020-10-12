@@ -194,7 +194,7 @@ Self explanatory. But honestly, Mikuri makes mistakes all the time, minor ones t
 Lot's of Pekora content, does a fair bit of non-peko as well
 
 - **If any, what errors or issues do you see sometimes? What justification do you have for still recommending them?**  
-As mentioned before, mistakes made but minor ones. They're also open to feedback.
+As mentioned before, mistakes made but minor ones. They're also open to feedback. Also monetizes their channel but tries to keep it at minimum (see [discussion page](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues/6#issuecomment-707210574)).
 
 - **How do they show a high level of standard?**  
 Goes back and fixes translation errors
