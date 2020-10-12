@@ -44,7 +44,9 @@ A translation quality check is essentially a peer review by other translators/pe
 #### [Click here to see progress of translations checking](https://github.com/tl-masterlist/VTuber-Translators-Master-List/projects/2)
 
 ## Adding checked translators to the list
-Once checked for TL quality and passing, they still need to be added to the list. You may fork the list, make the addition, and submit a pull request. Collaborators will check the addition and may modify the submission to adhere to appropriate formats. **Do not submit a pull request for adding unchecked translators!** Only add translators labeled ["To be added"](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues?q=is%3Aissue+is%3Aopen+label%3A%22To+be+added%22)
+Once checked for TL quality and passing, they still need to be added to the list. You may fork the list, make the addition, and submit a pull request. Collaborators will check the addition and may modify the submission to adhere to appropriate formats. **Do not submit a pull request for adding unchecked translators!** Only add translators labeled ["**To be added**"](https://github.com/tl-masterlist/VTuber-Translators-Master-List/issues?q=is%3Aissue+is%3Aopen+label%3A%22To+be+added%22).
+
+[**You can see formatting guidelines over here**](https://github.com/tl-masterlist/VTuber-Translators-Master-List/wiki/Formatting-the-list).
 
 # Frequently Asked Questions (FAQs)
 See [FAQs page](https://github.com/tl-masterlist/VTuber-Translators-Master-List/wiki/Frequently-Asked-Questions).
